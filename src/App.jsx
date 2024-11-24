@@ -1,8 +1,10 @@
+import RouteController from "./routes"
+
 function App() {
 
   return (
     <>
-      
+      <RouteController />
     </>
   )
 }
